@@ -1,0 +1,78 @@
+#ingresar agua
+#ingresar casuela grande
+#ingresar 500 g de carne entre ternero y cerdo
+#ingresar 2 pimientos rojos
+#ingresar 2 zanahorias
+#ingresar 2 dientes de ajo
+#ingresar 150 g de bacon
+#ingresar 2 cebollas grandes
+#ingresar 250 g de tomate natural
+#ingresar 250 ml de vino blanco
+#ingresar 100 ml de aceite de oliva virgen extra
+#ingresar 1 cucharita colmada de oregano seco
+#ingresar sal y pimienta negra recien molida
+#ingresar 12 laminas de lasagna
+#ingresar 125 g de harina de trigo
+#ingresar 125 g de mantequilla 
+#ingresar 1 litro de leche entera
+#ingresar 4 g de nuez moscada
+#ingresar 120 g de queso rallado 
+#variable tiempo
+#variable timer
+#variable verduras
+#variable cuchillo
+#variable calentar
+
+#def Preparacion previa de la lasagna de carne{
+#  def agua hervida = cazuela grande + agua 
+#  si(agua hervida){
+    #aÃ±adir sal
+#  }
+#  def agua con laminas de lasagna = laminas de lasagna + agua hervida 
+#  set timer = 0
+#  tiempo = 10 min
+#  si(timer == tiempo){
+     #sacar agua con laminas de lasagna
+
+#  }else(){
+    #dejar 
+#  }
+# }
+  
+#def preparar el relleno de lasagna de carne{
+# def verduras = zanahorias + tomate + pimientos rojos 
+# verduras + cuchillo = verduras picadas
+# cazuela con aceite virgen = cazuela + aceite virgen
+# calentar = 40 grados
+# cebolla + ajo + calentar = cebolla-ajo dorado
+# set timer = 0
+# tiempo = 1 
+# si(timer == tiempo ){
+    #sacar cebolla-ajo
+
+# }else{
+    #dejar
+# }
+   #set calentar = 150 grados
+   #verduras + cebolla + ajo + calentar = cazuela de verduras
+   #carne salpimentada = carne + sal + pimienta
+   #carne + cazuela de verduras = cazuela con carne
+   #espera 5 minutos 
+   #cazuela con carne + bacon = cazuela con carne2
+   #cazuela con carne2 + vino blanco = cazuela de carne3
+   #espera 5 minutos
+   #tomate + oregano + sal + pimienta + cazuela de carne3 = cazuela de carne4
+#}
+ 
+#def final de la receta{
+# agregar salsa
+# set calentar = 180 grados
+# tiempo = 15 min
+# hacer(timer < tiempo){
+#   dejar en horno
+# }else(){
+#   sacar
+# }
+# 
+# }
+

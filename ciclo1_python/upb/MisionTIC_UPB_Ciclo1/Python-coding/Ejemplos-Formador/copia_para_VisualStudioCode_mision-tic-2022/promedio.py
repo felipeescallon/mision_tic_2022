@@ -1,0 +1,8 @@
+input("Promedio de 5 números")
+n1 = int(input("1er número "))
+n2 = int(input("2do número "))
+n3 = int(input("3er número "))
+n4 = int(input("4to número "))
+n5 = int(input("5to número "))
+promedio = int((n1+n2+n3+n4+n5)/5)
+input(f"El promedio de {n1}, {n2}, {n3}, {n4} y {n5} es= {promedio}")
