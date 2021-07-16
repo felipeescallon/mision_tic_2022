@@ -1,0 +1,218 @@
+<?xml version="1.0" standalone="yes"?>
+<Artistas>
+  <Artista>
+    <Nombre>Ekhymosis</Nombre>
+    <Tipo>Grupo</Tipo>
+    <Pais>Colombia</Pais>
+    <Cancion>
+      <Titulo>Solo</Titulo>
+      <Duracion>4:50</Duracion>
+      <Ano>1989</Ano>
+      <Genero>Balada</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>La Tierra</Titulo>
+      <Duracion>4:00</Duracion>
+      <Ano>1997</Ano>
+      <Genero>Pop</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Guns and Roses</Nombre>
+    <Tipo>Grupo</Tipo>
+    <Pais>USA</Pais>
+    <Cancion>
+      <Titulo>November Rain</Titulo>
+      <Duracion>8:57</Duracion>
+      <Ano>1989</Ano>
+      <Genero>Rock</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>Dont cry</Titulo>
+      <Duracion>4:45</Duracion>
+      <Ano>1989</Ano>
+      <Genero>Rock</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>Knockin on heavens door</Titulo>
+      <Duracion>5:36</Duracion>
+      <Ano>1989</Ano>
+      <Genero>Rock</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Soda Stereo</Nombre>
+    <Tipo>Grupo</Tipo>
+    <Pais>Argentina</Pais>
+    <Cancion>
+      <Titulo>De musica ligera</Titulo>
+      <Duracion>3:27</Duracion>
+      <Ano>1990</Ano>
+      <Genero>Rock</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>Cuando pase el temblor</Titulo>
+      <Duracion>3:51</Duracion>
+      <Ano>1985</Ano>
+      <Genero>Rock</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>Tratame suavemente</Titulo>
+      <Duracion>3:24</Duracion>
+      <Ano>1985</Ano>
+      <Genero>Rock</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Andy Gibb</Nombre>
+    <Tipo>Solista</Tipo>
+    <Pais>Estados Unidos</Pais>
+    <Cancion>
+      <Titulo>An Everlasting Love</Titulo>
+      <Duracion>3:50</Duracion>
+      <Ano>1977</Ano>
+      <Genero>Pop</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>I Just Want To Be Your Everything</Titulo>
+      <Duracion>4:50</Duracion>
+      <Ano>1977</Ano>
+      <Genero>Pop</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Carlos Vives</Nombre>
+    <Tipo>Solista</Tipo>
+    <Pais>Colombia</Pais>
+    <Cancion>
+      <Titulo>La gota fria</Titulo>
+      <Duracion>5</Duracion>
+      <Ano>1990</Ano>
+      <Genero>Vallenato</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Miguel Bosé</Nombre>
+    <Tipo>Solista</Tipo>
+    <Pais>España</Pais>
+    <Cancion>
+      <Titulo>Creo en ti</Titulo>
+      <Duracion>4:05</Duracion>
+      <Ano>1977</Ano>
+      <Genero>Balada</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>Te dire</Titulo>
+      <Duracion>2:42</Duracion>
+      <Ano>1982</Ano>
+      <Genero>Balada</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>Te amare</Titulo>
+      <Duracion>3:28</Duracion>
+      <Ano>1982</Ano>
+      <Genero>Balada</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Vilma Palma e Vampiros</Nombre>
+    <Tipo>Grupo</Tipo>
+    <Pais>Argentina</Pais>
+    <Cancion>
+      <Titulo>Un Camino Hasta Vos</Titulo>
+      <Duracion>5:38</Duracion>
+      <Ano>1992</Ano>
+      <Genero>Pop</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Bon Jovi</Nombre>
+    <Tipo>Grupo</Tipo>
+    <Pais>USA</Pais>
+    <Cancion>
+      <Titulo>I´ll be There For You</Titulo>
+      <Duracion>5:41</Duracion>
+      <Ano>1989</Ano>
+      <Genero>Rock</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>Como yo nadie te ha amado</Titulo>
+      <Duracion>4:66</Duracion>
+      <Ano>1995</Ano>
+      <Genero>Balada</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Los de Adentro</Nombre>
+    <Tipo>Grupo</Tipo>
+    <Pais>Colombia</Pais>
+    <Cancion>
+      <Titulo>Por siempre</Titulo>
+      <Duracion>4:05</Duracion>
+      <Ano>1993</Ano>
+      <Genero>Balada</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>Una cancion</Titulo>
+      <Duracion />
+      <Ano />
+      <Genero>Balada</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Duncan dhu</Nombre>
+    <Tipo>Grupo</Tipo>
+    <Pais>España</Pais>
+    <Cancion>
+      <Titulo>En algun lugar</Titulo>
+      <Duracion>3:57</Duracion>
+      <Ano>1987</Ano>
+      <Genero>Pop</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Reo Speedwagon</Nombre>
+    <Tipo>Grupo</Tipo>
+    <Pais>USA</Pais>
+    <Cancion>
+      <Titulo>Keep On Loving You</Titulo>
+      <Duracion>3:23</Duracion>
+      <Ano>1985</Ano>
+      <Genero>Rock</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>Take it on the run</Titulo>
+      <Duracion>4:02</Duracion>
+      <Ano>1985</Ano>
+      <Genero>Rock</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Jose Jose</Nombre>
+    <Tipo>Sin Tipo</Tipo>
+    <Pais>Sin Pais</Pais>
+    <Cancion>
+      <Titulo>Si me dejas ahora</Titulo>
+      <Duracion>Sin Duracion</Duracion>
+      <Ano>Sin Ano</Ano>
+      <Genero>Sin Genero</Genero>
+    </Cancion>
+    <Cancion>
+      <Titulo>Lo pasado pasado</Titulo>
+      <Duracion>Sin Duracion</Duracion>
+      <Ano>Sin Ano</Ano>
+      <Genero>Sin Genero</Genero>
+    </Cancion>
+  </Artista>
+  <Artista>
+    <Nombre>Umberto Tozi</Nombre>
+    <Tipo>Sin Tipo</Tipo>
+    <Pais>Sin Pais</Pais>
+    <Cancion>
+      <Titulo>Te amo</Titulo>
+      <Duracion>Sin Duracion</Duracion>
+      <Ano>Sin Ano</Ano>
+      <Genero>Sin Genero</Genero>
+    </Cancion>
+  </Artista>
+</Artistas>
