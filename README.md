@@ -4,5 +4,6 @@ Repositorio que contiene información sobre mi labor como Formador del Programa 
 # Actualizaciones:
 
  - **Completada**: ciclo 1 (Python)
- - *En progreso*: ciclo 2 (Java)
- - Pendiente: ciclo 3 (SW dev) & ciclo 4 (Web/mobile apps)
+ - **Completada**: ciclo 2 (Java, SQL, MVC)
+ - *En progreso*: ciclo 3 (Software development: Agile, C#, HTML, CSS, SQL, API-REST) 
+ - Pendiente: ciclo 4 (Web/mobile apps)
