@@ -4,6 +4,6 @@ Repositorio que contiene información sobre mi labor como Formador del Programa 
 # Actualizaciones:
 
  - **Completada**: ciclo 1 (Python)
- - **Completada**: ciclo 2 (Java, SQL, MVC)
+ - **Completada**: ciclo 2 (Java, SQL, MVC): **ver proyectos de Netbeans [aquí!](https://drive.google.com/drive/folders/1Ym2F2X4jDO2MFVreTRiBLL2-4w84eFql?usp=sharing)
  - *En progreso*: ciclo 3 (Software development: Agile, C#, HTML, CSS, SQL, API-REST) 
  - Pendiente: ciclo 4 (Web/mobile apps)
