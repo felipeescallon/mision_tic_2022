@@ -1,0 +1,1 @@
+Proyecto local completo hecho en Java soportado en la arquitectura MVC (Modelo-Vista-Controlador) accediendo a una base de datos relacional (MySql) desde Netbeans con JDBC (Java Database Connectivity). El proyecto además hace uso de gráficos y tiene la capacidad de exportar información en archivos de Excel. 
