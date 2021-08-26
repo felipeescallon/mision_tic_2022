@@ -1,0 +1,22 @@
+ESTANDARIZAR EL FUNCIONAMIENTO DEL PET MANAGER EN MI EQUIPO:
+
+NOTA: el formador hará el recorrido por única vez como si fuera un estudiante
+Plazo: 30 min
+Inicio 8:30 pm
+Fin: 9 pm
+
+1. Descargar la carpeta PetManager_completo_GUI_SQL_MVC de los ejemplos del formador del Drive
+
+2. Descomprimir la carpeta descargada
+
+3. Copiarla y alojarla dentro de los proyectos de Netbeans en mi equipo
+
+4. Abrir el proyecto copiado en Netbeans
+
+5. En libraries, cargar el mysql-connector-java-8.0.25.jar
+
+6. Correr el archivo frmPet.java (aquí debe aparecer en blanco la lista de mascotas)
+
+7. Importar la base de datos administracionmascotasbd.sql en phpMyAdmin
+
+8. Correr el archivo frmPet.java (aquí YA debe aparecer la lista de mascotas con valores)

@@ -1,0 +1,27 @@
+
+
+CREATE TABLE tb_doctor ( id int AUTO_INCREMENT primary key, name varchar(150) not null, phone varchar(100) not null, address varchar(100) not null );
+
+CREATE TABLE tb_pet(
+    
+    id int AUTO_INCREMENT primary key,
+    code varchar(3) not null,
+    name varchar(50) not null,
+    born_year int not null,
+    color varchar(20) not null,    
+    healthStatus varchar(15) not null
+
+);
+
+CREATE TABLE tb_pet(id int AUTO_INCREMENT PRIMARY KEY, code varchar(3) not null, name varchar(50) not null, born_year int not null, color varchar(20) not null, healthStatus varchar(15) not null);
+
+scSC
+SDC
+SADC
+ASD
+CSA
+SA
+C
+CSA
+ASC
+ACS

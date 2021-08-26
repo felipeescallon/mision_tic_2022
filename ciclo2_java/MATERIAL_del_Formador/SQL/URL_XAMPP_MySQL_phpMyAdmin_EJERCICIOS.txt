@@ -1,0 +1,20 @@
+https://www.apachefriends.org/es/index.html
+
+En 15 minutos:
+
+1. Entrar a la página y descargar XAAMP
+2. Instalar XAAMP (siguiente, siguiente, ....)
+3. Abrir XAAMP Control Panel
+4. Click en Start (Apache y de MySQL)
+5. Abrir una página web y digitar: localhost
+6. Click en phpMyadmin
+7. Crear base de datos poniendo el nombre de: mascotas
+
+10 minutos para un ejercicio práctico de Inferencia:
+
+1. El formador crea la tabla Pet
+2. El formador pone en el chat las queries SQL para la creación de las tablas Dog y Cat, 
+	y otras para el registro de dos mascotas (dos perros)...
+3. Ejercicio: Crear las tablas en phpMyAdmin, crea dos mascotas adicionales(dos gatos) 
+	y luego deben relacionarlas creando respectivamente dos perros y dos gatos en las tablas
+	específicos

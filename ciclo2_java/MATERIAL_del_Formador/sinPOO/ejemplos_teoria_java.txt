@@ -1,0 +1,233 @@
+
+public class HolaMundo
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Hola Mundo");
+	}
+}
+
+public class Mascota
+{	
+	/*
+	Esta sección es...
+	...para los atributos
+	*/
+
+	tipo_de_dato nombre_atributo = valor_inicial; //plantilla atributo ("variable" en minúsculas)
+
+	nombre
+	raza
+	edad
+	
+	//Métodos ("funciones")
+
+	Comer()
+	{
+	//código del método
+	}
+
+	Movilizarse(){}
+
+	EmitirSonido(){}
+
+
+	public static void main(String args[])
+	{
+		System.out.println("Mascota");
+	}
+}
+
+
+
+public class Persona
+{	
+	/*
+	Esta sección es...
+	...para los atributos
+	*/
+
+	//plantilla atributo ("variable" en minúsculas)	
+	//modificador_de_acceso tipo_de_dato nombre_atributo = valor_inicial; 
+	//modificador_de_acceso tipo_de_dato nombre_atributo;
+	//nombre_atributo = valor_inicial;
+
+
+	//Por re-confirmar: por defecto si no se pone modificador_de_acceso se toma como paquete (acceso permitido a los que están dentro del paquete)
+	//Por encapsulamienbto se recominda poner "private" (ese es el "chiste" de la POO)
+
+	private String nombre;
+	private int id;
+	private int edad;
+	private int telefono;
+	private String genero;
+	
+	//Métodos ("funciones")
+
+	//Constructor sin parámetros
+	public Persona()
+	{
+	}
+
+	//Constructor con parámetros
+	public Persona(String name,int ID,int age,int phone,String gender)
+	{	
+		this.nombre=name;
+		this.id=ID;
+		this.edad=age;
+		this.telefono=phone;
+		this.genero=gender;
+	}
+
+	//métodos set
+	public void setNombre(String name)
+	{
+		this.nombre=name;
+	}
+
+	public void setId(int ID)
+	{
+		this.id=ID;
+	}
+
+	public void setEdad(int age)
+	{
+		this.edad=age;
+	}
+
+	public void setTelefono(int phone)
+	{
+		this.telefono=phone;
+	}
+
+	public void setGenero(String gender)
+	{
+		this.genero=gender;
+	}
+
+	//métodos get
+	public String getNombre()
+	{
+		return nombre;
+	}
+
+	public int getId()
+	{
+		return id;
+	}
+
+	public int getEdad()
+	{
+		return edad;
+	}
+
+	public int getTelefono()
+	{
+		return telefono;
+	}
+
+	public String getGenero()
+	{
+		return genero;
+	}
+
+        
+	//otros métodos
+
+	public void Comer()
+	{
+		//código del método
+		System.out.println(this.getNombre()+" es una persona que está comiendo");
+
+	}
+
+	public void Dormir()
+	{
+		System.out.println(this.getNombre()+" es una persona que está durmiendo");
+	}
+	
+	public void Jugar()
+	{
+		System.out.println(this.getNombre()+" es una persona que está jugando");
+	}
+	
+	
+	public void Estudiar()
+	{
+		System.out.println(this.getNombre()+" es una persona que está estudiando");
+	}
+
+	public void Trabajar()
+	{
+		System.out.println(this.getNombre()+" es una persona que está trabajando");
+	}
+
+        //llamado de métodos conjuntos
+        
+        public void EjecutarAcciones()
+        {               
+                System.out.println("ACCIONES EJECUTÁNDOSE: ");                       		
+                Comer();
+		Dormir();
+                Jugar();
+		Estudiar();
+                Trabajar();
+        }
+        
+        public void ImprimirDatos()
+        {
+                System.out.println("LOS DATOS PERSONALES SON: ");                       		
+                System.out.println("Nombre: "+this.getNombre());                       		
+                System.out.println("Identificación: "+this.getId());
+                System.out.println("Edad: "+this.getEdad());
+                System.out.println("Teléfono: "+this.getTelefono());
+                System.out.println("Género: "+this.getGenero());                       
+        }
+        
+        public void FijarValoresNN()
+        {
+                setNombre("NN");
+		setId(0);
+		setEdad(0);
+		setTelefono(0);
+		setGenero("Desconocido");//Unknown                
+        }
+        
+                
+
+//Método principal (ejecutable)
+
+	public static void main(String args[])
+	{
+		
+                System.out.println("Persona 1:");		
+                Persona persona1=new Persona();  
+                System.out.println("Información del objeto persona1:");
+                System.out.println("'"+persona1+"'");                
+                persona1.setNombre("Andrés Portilla");
+		persona1.setId(102003);
+		persona1.setEdad(25);
+		persona1.setTelefono(8245678);
+		persona1.setGenero("Masculino");
+                persona1.ImprimirDatos();
+                persona1.EjecutarAcciones();
+                
+                System.out.println("Persona NN:");		
+                Persona personaNN=new Persona();
+                System.out.println("Información del objeto personaNN:");
+                System.out.println("'"+personaNN+"'");                
+                personaNN.FijarValoresNN();
+                personaNN.ImprimirDatos();
+                personaNN.EjecutarAcciones();
+		
+		System.out.println("Persona 2:");		
+                Persona persona2=new Persona("Isabella Toro",55344,21,83654,"Femenino");                               
+                System.out.println("Información del objeto persona2:");
+                System.out.println("'"+persona2+"'");                
+		persona2.ImprimirDatos();
+                persona2.EjecutarAcciones();
+                
+                
+                
+	}
+}

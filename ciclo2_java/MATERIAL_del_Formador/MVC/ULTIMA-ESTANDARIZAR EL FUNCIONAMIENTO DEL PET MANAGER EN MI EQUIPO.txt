@@ -1,0 +1,28 @@
+FUNCIONA-EXTRA-ULTIMA-PetManager_completo_archivos_graficos
+
+ESTANDARIZAR EL FUNCIONAMIENTO DEL PET MANAGER EN MI EQUIPO:
+
+NOTA: el formador hará el recorrido por única vez como si fuera un estudiante (proceso similar al de la clase pasada)
+Plazo: 15 min
+Inicio 8:30 pm
+Fin: 8:45 pm
+
+0. ES INDISPENSABLE TENER DISPONIBLE LA BD: administracionmascotasbd
+
+1. Descargar la carpeta "FUNCIONA-ULTIMA-PetManager_completo_archivos_graficos" de los ejemplos del formador del Drive
+
+2. Descomprimir la carpeta descargada
+
+3. Copiarla y alojarla dentro de los proyectos de Netbeans en mi equipo
+
+4. Abrir el proyecto copiado en Netbeans
+
+5. En libraries, cargar:
+   mysql-connector-java-8.0.25.jar (PARA LA CONEXIÓN CON LA BD)
+   commons-math3-3.6.1.jar         (PARA LAS GRÁFICAS)
+   jfreechart-1.0.19.jar 	   (PARA LAS GRÁFICAS)
+   jcommon-1.0.23 		   (PARA EL MANEJO DE ARCHIVOS)
+   poi-5.0.0                       (PARA EL MANEJO DE ARCHIVOS)
+
+6. Correr el archivo frmPet.java 
+(aquí YA debe aparecer la lista de mascotas con valores, gráficos y botones para exportar)

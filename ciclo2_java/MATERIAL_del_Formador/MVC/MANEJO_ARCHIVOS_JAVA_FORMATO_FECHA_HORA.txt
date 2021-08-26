@@ -1,0 +1,116 @@
+Tomado de:
+https://www.delftstack.com/es/howto/java/how-to-get-the-current-date-time-in-java/
+
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+
+
+//manejo de archivos
+
+private void btnExportarCatListActionPerformed(java.awt.event.ActionEvent evt) {                                                   
+        // TODO add your handling code here:
+        HSSFWorkbook book = new HSSFWorkbook();
+        HSSFSheet sheet = book.createSheet();
+        //book.setSheetName(0, "Dogs");
+        book.setSheetName(0, "Cats");
+        //book.setSheetName(0, "Pets");
+
+        String[] headers = new String[]{
+            "AnimalType",//mascota(Dog/Cat)
+            "Code",//mascota
+            "Name",//mascota
+            "Color",//mascota
+            "Health Status",//mascota
+            "Breed",//común para gato y perro
+            //"Pedigree" //solo para perros
+        };
+
+        CellStyle headerCellStyle = book.createCellStyle();
+        HSSFFont font = book.createFont();
+        font.setBold(true);
+        headerCellStyle.setFont(font);
+
+        HSSFRow headersRow = sheet.createRow(0);
+        for (int i = 0; i < headers.length; i++) {
+            String header = headers[i];
+            HSSFCell cell = headersRow.createCell(i);
+            cell.setCellStyle(headerCellStyle);
+            cell.setCellValue(header);
+        }
+        /*
+        int index_dog = 0;
+
+        for (int i = 0; i < dogObjectList.size(); i++) {
+            HSSFRow row = sheet.createRow(i + 1);
+            String code = dogObjectList.get(i).getCode();
+            String name = dogObjectList.get(i).getName();
+            String color = dogObjectList.get(i).getColor();
+            String healthStatus = dogObjectList.get(i).getHealth_status();
+            String breed = ((clsDog) dogObjectList.get(i)).getBreed();            
+            //boolean pedigree = ((clsDog) dogObjectList.get(i)).isPedigree();
+            //String pedigreeString = pedigree ? "SI" : "NO";
+            row.createCell(0).setCellValue(code);
+            row.createCell(1).setCellValue(name);
+            row.createCell(2).setCellValue(color);
+            row.createCell(3).setCellValue(healthStatus);
+            row.createCell(4).setCellValue(breed);
+            //row.createCell(4).setCellValue(pedigreeString);
+            index_dog++;
+        }
+        */
+        //int index_cat = index_dog;        
+        
+          for (int i = 0; i < catObjectList.size(); i++) {
+            //HSSFRow row = sheet.createRow(i + index_cat + 1);
+            HSSFRow row = sheet.createRow(i + 1);
+            String animalType = catObjectList.get(i).getAnimalType();
+            String code = catObjectList.get(i).getCode();
+            String name = catObjectList.get(i).getName();
+            String color = catObjectList.get(i).getColor();
+            String healthStatus = catObjectList.get(i).getHealth_status();
+            String breed = ((clsCat) catObjectList.get(i)).getBreed();            
+            
+            
+            row.createCell(0).setCellValue(animalType);
+            row.createCell(1).setCellValue(code);
+            row.createCell(2).setCellValue(name);
+            row.createCell(3).setCellValue(color);
+            row.createCell(4).setCellValue(healthStatus);
+            row.createCell(5).setCellValue(breed);
+            //row.createCell(4).setCellValue(pedigreeString);
+        }
+          
+        try {
+            //FileOutputStream file = new FileOutputStream("pet_list_report.xls");
+            //FileOutputStream file = new FileOutputStream("dog_list_report.xls");            
+            //FileOutputStream file = new FileOutputStream("cat_list_report.xls");
+            DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy_MM_dd HH-mm-ss");
+            FileOutputStream file = new FileOutputStream("cat_list_report_date_"+dtf.format(LocalDateTime.now()).toString()+"-time.xls");            
+	    book.write(file);
+            file.close();
+            JOptionPane.showMessageDialog(this, "The file has been exported successfully");
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(frmPet.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(frmPet.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+
+/*RESUMEN:
+
+Tomado de:
+https://www.delftstack.com/es/howto/java/how-to-get-the-current-date-time-in-java/
+
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+
+
+//manejo de archivos
+
+
+DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy_MM_dd HH-mm-ss");
+FileOutputStream file = new FileOutputStream("facturacion_fecha_"+dtf.format(LocalDateTime.now()).toString()+"-hora.xls");            
+workbook.write(file);
+file.close(); 
+
+*/

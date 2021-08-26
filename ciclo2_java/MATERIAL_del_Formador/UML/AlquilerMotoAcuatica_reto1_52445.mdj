@@ -1,0 +1,371 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAF61ijRh78Magw=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"model": {
+								"$ref": "AAAAAAF61ijRhr8K4w0="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAF61ijRiL8N1ZU=",
+									"_parent": {
+										"$ref": "AAAAAAF61ijRh78Magw="
+									},
+									"model": {
+										"$ref": "AAAAAAF61ijRhr8K4w0="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF61ijRiL8OQYI=",
+											"_parent": {
+												"$ref": "AAAAAAF61ijRiL8N1ZU="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -16,
+											"top": -304,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF61ijRiL8PM5g=",
+											"_parent": {
+												"$ref": "AAAAAAF61ijRiL8N1ZU="
+											},
+											"font": "Arial;13;1",
+											"left": 213,
+											"top": 127,
+											"width": 256.140625,
+											"height": 13,
+											"text": "AlquilerMotoAcuatica"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF61ijRiL8Q1sI=",
+											"_parent": {
+												"$ref": "AAAAAAF61ijRiL8N1ZU="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -16,
+											"top": -304,
+											"width": 73.67724609375,
+											"height": 13,
+											"text": "(from Model)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF61ijRiL8R4v8=",
+											"_parent": {
+												"$ref": "AAAAAAF61ijRiL8N1ZU="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -16,
+											"top": -304,
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 208,
+									"top": 120,
+									"width": 266.140625,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAF61ijRiL8OQYI="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAF61ijRiL8PM5g="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAF61ijRiL8Q1sI="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAF61ijRiL8R4v8="
+									}
+								},
+								{
+									"_type": "UMLAttributeCompartmentView",
+									"_id": "AAAAAAF61ijRiL8SB1A=",
+									"_parent": {
+										"$ref": "AAAAAAF61ijRh78Magw="
+									},
+									"model": {
+										"$ref": "AAAAAAF61ijRhr8K4w0="
+									},
+									"subViews": [
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAF61ixwvL84jCM=",
+											"_parent": {
+												"$ref": "AAAAAAF61ijRiL8SB1A="
+											},
+											"model": {
+												"$ref": "AAAAAAF61ixwqL81rG8="
+											},
+											"font": "Arial;13;0",
+											"left": 213,
+											"top": 150,
+											"width": 256.140625,
+											"height": 13,
+											"text": "-Id: int",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAF61i8Cer9L6VA=",
+											"_parent": {
+												"$ref": "AAAAAAF61ijRiL8SB1A="
+											},
+											"model": {
+												"$ref": "AAAAAAF61i8Cc79Iox0="
+											},
+											"font": "Arial;13;0",
+											"left": 213,
+											"top": 165,
+											"width": 256.140625,
+											"height": 13,
+											"text": "-Attribute1: type",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAF61i8Zm79RuC8=",
+											"_parent": {
+												"$ref": "AAAAAAF61ijRiL8SB1A="
+											},
+											"model": {
+												"$ref": "AAAAAAF61i8Zir9OASg="
+											},
+											"font": "Arial;13;0",
+											"left": 213,
+											"top": 180,
+											"width": 256.140625,
+											"height": 13,
+											"text": "-Attribute2: type",
+											"horizontalAlignment": 0
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 208,
+									"top": 145,
+									"width": 266.140625,
+									"height": 53
+								},
+								{
+									"_type": "UMLOperationCompartmentView",
+									"_id": "AAAAAAF61ijRib8TqLQ=",
+									"_parent": {
+										"$ref": "AAAAAAF61ijRh78Magw="
+									},
+									"model": {
+										"$ref": "AAAAAAF61ijRhr8K4w0="
+									},
+									"subViews": [
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF61kp/dr9pWqY=",
+											"_parent": {
+												"$ref": "AAAAAAF61ijRib8TqLQ="
+											},
+											"model": {
+												"$ref": "AAAAAAF61kp/UL9mQ88="
+											},
+											"font": "Arial;13;0",
+											"left": 213,
+											"top": 203,
+											"width": 256.140625,
+											"height": 13,
+											"text": "+AlquilerMotoAcuatica()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF61kGIWb9ZL6g=",
+											"_parent": {
+												"$ref": "AAAAAAF61ijRib8TqLQ="
+											},
+											"model": {
+												"$ref": "AAAAAAF61kGIUL9WWGE="
+											},
+											"font": "Arial;13;0",
+											"left": 213,
+											"top": 218,
+											"width": 256.140625,
+											"height": 13,
+											"text": "+TerminarAlquiler(numeroHoras: int): double",
+											"horizontalAlignment": 0
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 208,
+									"top": 198,
+									"width": 266.140625,
+									"height": 38
+								},
+								{
+									"_type": "UMLReceptionCompartmentView",
+									"_id": "AAAAAAF61ijRib8U01U=",
+									"_parent": {
+										"$ref": "AAAAAAF61ijRh78Magw="
+									},
+									"model": {
+										"$ref": "AAAAAAF61ijRhr8K4w0="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": -8,
+									"top": -152,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLTemplateParameterCompartmentView",
+									"_id": "AAAAAAF61ijRib8VfgI=",
+									"_parent": {
+										"$ref": "AAAAAAF61ijRh78Magw="
+									},
+									"model": {
+										"$ref": "AAAAAAF61ijRhr8K4w0="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": -8,
+									"top": -152,
+									"width": 10,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 208,
+							"top": 120,
+							"width": 266.140625,
+							"height": 116,
+							"nameCompartment": {
+								"$ref": "AAAAAAF61ijRiL8N1ZU="
+							},
+							"attributeCompartment": {
+								"$ref": "AAAAAAF61ijRiL8SB1A="
+							},
+							"operationCompartment": {
+								"$ref": "AAAAAAF61ijRib8TqLQ="
+							},
+							"receptionCompartment": {
+								"$ref": "AAAAAAF61ijRib8U01U="
+							},
+							"templateParameterCompartment": {
+								"$ref": "AAAAAAF61ijRib8VfgI="
+							}
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAF61ijRhr8K4w0=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "AlquilerMotoAcuatica",
+					"attributes": [
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAF61ixwqL81rG8=",
+							"_parent": {
+								"$ref": "AAAAAAF61ijRhr8K4w0="
+							},
+							"name": "Id",
+							"visibility": "private",
+							"type": "int"
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAF61i8Cc79Iox0=",
+							"_parent": {
+								"$ref": "AAAAAAF61ijRhr8K4w0="
+							},
+							"name": "Attribute1",
+							"visibility": "private",
+							"type": "type"
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAF61i8Zir9OASg=",
+							"_parent": {
+								"$ref": "AAAAAAF61ijRhr8K4w0="
+							},
+							"name": "Attribute2",
+							"visibility": "private",
+							"type": "type"
+						}
+					],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF61kp/UL9mQ88=",
+							"_parent": {
+								"$ref": "AAAAAAF61ijRhr8K4w0="
+							},
+							"name": "AlquilerMotoAcuatica"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF61kGIUL9WWGE=",
+							"_parent": {
+								"$ref": "AAAAAAF61ijRhr8K4w0="
+							},
+							"name": "TerminarAlquiler",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF61kKT7r9h/f8=",
+									"_parent": {
+										"$ref": "AAAAAAF61kGIUL9WWGE="
+									},
+									"name": "numeroHoras",
+									"type": "int"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF61kKT7r9ipJk=",
+									"_parent": {
+										"$ref": "AAAAAAF61kGIUL9WWGE="
+									},
+									"type": "double",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
