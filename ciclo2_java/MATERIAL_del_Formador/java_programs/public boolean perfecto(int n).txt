@@ -1,0 +1,21 @@
+public boolean perfecto(int n)
+{
+        int sum = 0;
+     
+        for (int c = 1; c < n; c++) 
+        {
+            if (n % c == 0) 
+            {
+                sum = sum + c;
+            }
+        }
+     
+        if (sum == n) 
+        {
+            return true;
+        } 
+        else 
+        {
+            return false;
+        }
+}
