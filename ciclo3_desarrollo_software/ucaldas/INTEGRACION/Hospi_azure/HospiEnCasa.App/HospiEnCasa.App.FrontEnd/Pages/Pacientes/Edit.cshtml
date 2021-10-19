@@ -1,0 +1,44 @@
+﻿@page
+@model HospiEnCasa.App.FrontEnd.Pages.EditModel
+@{
+    int pacienteId=Model.Paciente.Id;
+}
+
+<h2>Edición de los datos del Paciente @Model.Paciente.Nombre @Model.Paciente.Apellidos</h2>
+<form method="post">
+    <input type="hidden" asp-for="Paciente.Id" />
+    <div class="form-group">
+        <label asp-for="Paciente.Nombre"></label>
+        <input asp-for="Paciente.Nombre" class="form-control">
+        <span class="text-danger" asp-validation-for="Paciente.Nombre"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Paciente.Apellidos"></label>
+        <input asp-for="Paciente.Apellidos" class="form-control">
+        <span class="text-danger" asp-validation-for="Paciente.Apellidos"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Paciente.NumeroTelefono"></label>
+        <input asp-for="Paciente.NumeroTelefono" class="form-control">
+        <span class="text-danger" asp-validation-for="Paciente.NumeroTelefono"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Paciente.Ciudad"></label>
+        <input asp-for="Paciente.Ciudad" class="form-control">
+        <span class="text-danger" asp-validation-for="Paciente.Ciudad"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Paciente.Direccion"></label>
+        <input asp-for="Paciente.Direccion" class="form-control">
+        <span class="text-danger" asp-validation-for="Paciente.Direccion"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Grabar</button>
+
+    <a class="btn btn-primary table-btn" asp-page="./Signos/List" asp-route-pacienteId="@pacienteId">
+        <i aria-hidden="true">Signos Vitales</i>
+    </a>
+</form>
+<a asp-page="./List" class="btn-default">Regresar a la lista de Pacientes </a>
+

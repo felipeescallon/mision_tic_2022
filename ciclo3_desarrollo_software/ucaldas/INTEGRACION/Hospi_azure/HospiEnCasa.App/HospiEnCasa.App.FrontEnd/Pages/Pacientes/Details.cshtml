@@ -1,0 +1,22 @@
+﻿@page
+@model HospiEnCasa.App.FrontEnd.Pages.Pacientes.DetailsModel
+@{
+}
+<h2>Datos Detallados de Paciente @Model.Paciente.Nombre @Model.Paciente.Apellidos</h2>
+<div>
+    Nombre: @Model.Paciente.Nombre
+</div>
+<div>
+    Apellidos: @Model.Paciente.Apellidos
+</div>
+<div>
+    Telefono: @Model.Paciente.NumeroTelefono
+</div>
+<div>
+    Ciudad: @Model.Paciente.Ciudad
+</div>
+<div>
+    Dirección: @Model.Paciente.Direccion
+</div>
+
+<a asp-page="./List" class="btn-default">Volver a la Lista de Pacientes.. </a>

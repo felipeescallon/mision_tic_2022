@@ -1,0 +1,27 @@
+﻿@page
+@model HospiEnCasa.App.FrontEnd.Pages.ListModel
+@{
+}
+
+<h1>Listado de Pacientes</h1>
+
+<table class="table">
+    @foreach (var paciente in Model.Pacientes)
+    {
+        <tr>
+            <td>@paciente.Nombre</td>
+            <td>@paciente.Apellidos</td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-pacienteId="@paciente.Id">
+                    <i class="fas fa-info-circle fa-lg"></i> </a>
+            </td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-pacienteId="@paciente.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+            </td </tr>
+    }
+</table>
+
+<a asp-page=".\Edit" class="btn btn-primary">Adicionar un Paciente</a>

@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "HospiEnCasa.App.FrontEnd\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e3f147d6-7680-40f9-99c3-21bef009c03a/resourceGroups/MisionTIC2022/providers/Microsoft.Web/sites/HospiCasa"
+}
