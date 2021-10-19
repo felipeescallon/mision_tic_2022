@@ -1,0 +1,25 @@
+﻿@page
+@model HolaWeb.App.Frontend.Pages.EditModel
+@{
+}
+<h2>Edición del Saludo :@Model.Saludo.EnEspañol</h2>
+<form method="post">
+     <input type="hidden" asp-for="Saludo.Id"/>
+    <div class="form-group">
+        <label asp-for="Saludo.EnEspañol"></label>
+        <input asp-for="Saludo.EnEspañol" class="form-control">
+        <span class="text-danger" asp-validation-for="Saludo.EnEspañol"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Saludo.EnIngles"></label>
+        <input asp-for="Saludo.EnIngles" class="form-control">
+        <span class="text-danger" asp-validation-for="Saludo.EnIngles"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Saludo.EnItaliano"></label>
+        <input asp-for="Saludo.EnItaliano" class="form-control">
+        <span class="text-danger" asp-validation-for="Saludo.EnItaliano"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Grabar</button>
+</form>
+<a asp-page="./List" class="btn-default">Lista de Saludos </a>

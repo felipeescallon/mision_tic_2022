@@ -1,0 +1,15 @@
+﻿@page
+@model HolaWeb.App.Frontend.Pages.DetailsModel
+@{
+}
+<h2>@Model.Saludo.EnEspañol</h2>
+<div>
+    Id: @Model.Saludo.Id
+</div>
+<div>
+    Ingles: @Model.Saludo.EnIngles
+</div>
+<div>
+    Italiano: @Model.Saludo.EnItaliano
+</div>
+<a asp-page="./List" class="btn-default">Lista de Saludos </a>

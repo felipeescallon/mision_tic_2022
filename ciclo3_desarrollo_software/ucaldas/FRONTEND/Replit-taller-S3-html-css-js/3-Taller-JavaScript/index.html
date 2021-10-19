@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+        <style type="text/css">
+    	#calculadora {background: gray; border: 0;}
+    	#calculadora td {padding: 4px;}
+    	.cajita_valor {background-color: #acff38; color: #467702; border: 1px solid #454545; width: 130px; height: 26px; font-family: Arial, Helvetica; font-size: 20px; line-height: 26	px; text-align: right; }
+    	.boton {width: 24px; border: 1px solid #000; font-family: Arial; font-size: 12px; cursor: hand; background-color: #fff;}
+    	.boton_largo { width: 62px; border: 1px solid #000;  font-family: Arial; font-size: 12px; cursor: hand; background-color: #fff;}
+    	.funcion {font-weight: bold; color: #b00;}
+    </style>
+    
+  </head
+ <body>
+    <table id="calculadora">
+        <tr>
+            <td colspan="4">
+                <input type="text" id="valor_numero" maxlength="20" value="0" class="cajita_valor" readonly="true">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="Button" id="Dividir" value="/" class="boton funcion" onclick="operar(4)">
+            </td>
+            <td>
+                <input type="Button" id="Multiplicar" value="x" class="boton funcion" onclick="operar(3)">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="Button" id="7" value="7" class="boton" onclick="darNumero('7')">
+            </td>
+            <td>
+                <input type="Button" id="8" value="8" class="boton" onclick="darNumero('8')">
+            </td>
+            <td>
+                <input type="Button" id="9" value="9" class="boton" onclick="darNumero('9')">
+            </td>
+            <td>
+                <input type="Button" id="Restar" value="-" class="boton funcion" onclick="operar(2)">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="Button" id="4" value="4" class="boton" onclick="darNumero('4')">
+            </td>
+            <td>
+                <input type="Button" id="5" value="5" class="boton" onclick="darNumero('5')">
+            </td>
+            <td>
+                <input type="Button" id="6" value="6" class="boton" onclick="darNumero('6')">
+            </td>
+    		<td>
+    			<input type="Button" id="Sumar" value="+" class="boton funcion" onclick="operar(1)">
+    		</td>
+        </tr>
+        <tr>
+            <td>
+                <input type="Button" id="1" value="1" class="boton" onclick="darNumero('1')">
+            </td>
+            <td>
+                <input type="Button" id="2" value="2" class="boton" onclick="darNumero('2')">
+            </td>
+            <td>
+                <input type="Button" id="3" value="3" class="boton" onclick="darNumero('3')">
+            </td>
+            <td>
+                <input type="Button" id="igual" value="=" class="boton funcion" onclick="esIgual()">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="Button" id="0" value="0" class="boton_largo" onclick="darNumero('0')">
+            </td>
+	    <td>
+                <input type="Button" id="," value="," class="boton" onclick="darComa()">
+            </td>
+    	    <td>
+    		<input type="Button" id="C" value="C" class="boton funcion" onclick="darC()">
+    	    </td>
+        </tr>
+    </table>
+    <script src="script.js"></script>
+    </body>
+</html>

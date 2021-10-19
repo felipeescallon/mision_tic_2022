@@ -1,0 +1,15 @@
+﻿@page
+@model HolaWeb.App.Frontend.Pages.ListModel
+@{
+}
+<h1>Listado de Saludos en Varios Idiomas</h1>
+<table class="table">
+    @foreach (var saludo in Model.Saludos)
+    {
+        <tr>
+            <td>@saludo.EnEspañol</td>
+            <td>@saludo.EnIngles</td>
+            <td>@saludo.EnItaliano</td>
+        </tr>
+    }
+</table>
