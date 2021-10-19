@@ -1,0 +1,580 @@
+<!doctype html><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="es-es" > <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="es-es" >        <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="es-es" >               <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="es-es"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="Incubicon">
+    <meta name="description" content="Scrum, KP, Kanban, Lean... Te contamos las diferencias entre las diferentes metodologías ágiles destinadas a gestión de proyectos.">
+    <meta name="generator" content="HubSpot">
+    <title>Tipos de metodologías ágiles para la gestión de proyectos</title>
+    <link rel="shortcut icon" href="https://blog.incubicon.com/hubfs/favicon-16x16.png">
+    
+
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <meta property="og:description" content="Scrum, KP, Kanban, Lean... Te contamos las diferencias entre las diferentes metodologías ágiles destinadas a gestión de proyectos.">
+    <meta property="og:title" content="Tipos de metodologías ágiles para la gestión de proyectos">
+    <meta name="twitter:description" content="Scrum, KP, Kanban, Lean... Te contamos las diferencias entre las diferentes metodologías ágiles destinadas a gestión de proyectos.">
+    <meta name="twitter:title" content="Tipos de metodologías ágiles para la gestión de proyectos">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+    
+
+    
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MK82DCG');</script>
+<!-- End Google Tag Manager -->
+<link rel="amphtml" href="https://blog.incubicon.com/tipos-de-metodologías-agiles-para-la-gestion-de-proyectos?hs_amp=true">
+
+<meta property="og:image" content="https://blog.incubicon.com/hubfs/metodologias-agiles-tipos.jpg#keepProtocol">
+<meta property="og:image:alt" content="metodologias-agiles-tipos">
+<meta name="twitter:image" content="https://blog.incubicon.com/hubfs/metodologias-agiles-tipos.jpg#keepProtocol">
+<meta name="twitter:image:alt" content="metodologias-agiles-tipos">
+
+<meta property="og:url" content="https://blog.incubicon.com/tipos-de-metodologías-agiles-para-la-gestion-de-proyectos">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="https://blog.incubicon.com/tipos-de-metodologías-agiles-para-la-gestion-de-proyectos">
+
+<meta property="og:type" content="article">
+<link rel="alternate" type="application/rss+xml" href="https://blog.incubicon.com/rss.xml">
+<meta name="twitter:domain" content="blog.incubicon.com">
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+    lang: es_ES
+</script>
+
+<meta http-equiv="content-language" content="es-es">
+<link rel="stylesheet" href="//cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1630689191089/hubspot/hubspot_default/shared/responsive/layout.min.css">
+
+
+<link rel="stylesheet" href="https://blog.incubicon.com/hs-fs/hub/4522349/hub_generated/template_assets/5989033764/1584544536669/Incubicon_July2018_Theme/Coded_Files/Incubicon_July2018-style.min.css">
+
+
+
+
+</head>
+<body class="blog   hs-content-id-7216182383 hs-blog-post hs-blog-id-6418476011" style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<div class="" data-global-widget-path="generated_global_groups/5989033804.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-header-group" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="4">
+<div id="hs_cos_wrapper_module_153251820759454" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="custom-logo">
+  
+  <a href="https://incubicon.com/"><img src="https://blog.incubicon.com/hubfs/incubicon-logo-01.png" alt="incubicon-logo-01"></a>
+  
+</div></div>
+
+</div><!--end widget-span -->
+<div class="span8 widget-span widget-type-custom_widget custom-menu-primary" style="" data-widget-type="custom_widget" data-x="4" data-w="8">
+<div id="hs_cos_wrapper_module_151811933987828" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_151811933987828_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_151811933987828_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="24208864492" aria-label="Navigation Menu">
+ <ul role="menu" class="active-branch">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="#Incubicon" role="menuitem">¿Qué es Incubicon?</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 active active-branch" role="none"><a href="https://blog.incubicon.com" role="menuitem">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://becas.structuralia.com/" role="menuitem">Becas </a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center content-wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget custom-blog-title" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_153140539902951" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_153140539902951_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1><span>Blog </span>Incubicon</h1>
+<p>El blog sobre ingeniería, industria e innovación</p></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span9 widget-span widget-type-cell blog-content" style="" data-widget-type="cell" data-x="0" data-w="9">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1523032069834331" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-blog_content" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    <div class="blog-section">
+<div class="blog-post-wrapper cell-wrapper">
+<div class="blog-section">
+<div class="blog-post-wrapper cell-wrapper">
+<div class="section post-header">
+<h1><span id="hs_cos_wrapper_name" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="text">Tipos de metodologías ágiles para la gestión de proyectos</span></h1>
+</div>
+<div class="hs-featured-image-wrapper">
+<a href="https://blog.incubicon.com/tipos-de-metodologías-agiles-para-la-gestion-de-proyectos">
+<img src="https://blog.incubicon.com/hs-fs/hubfs/metodologias-agiles-tipos.jpg?width=650&amp;name=metodologias-agiles-tipos.jpg" alt="metodologias-agiles-tipos">
+</a>
+</div>
+<div class="custom-blog-post-content">
+<div class="section post-body">
+<span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"><p style="text-align: justify;">Las <strong>metodologías ágiles</strong> han venido para irrumpir en la gestión empresarial… La ingeniería 4.0 y el imparable desarrollo de los procesos en el entorno digital han derivado en un enfoque que permite ejecutar cualquier proyecto a partir de <strong>etapas de corta duración según distintas &nbsp;iteraciones</strong>.</p>
+<!--more-->
+<p style="text-align: justify;">De esta manera resulta mucho más sencillo adaptar la planificación a las modificaciones y nuevos requerimientos que puedan surgir a lo largo del ciclo de vida del trabajo.</p>
+<p style="text-align: justify;"><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-fc3ca191-7d97-4eac-981a-c6fd528c37a5"><span class="hs-cta-node hs-cta-fc3ca191-7d97-4eac-981a-c6fd528c37a5" id="hs-cta-fc3ca191-7d97-4eac-981a-c6fd528c37a5"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/4522349/fc3ca191-7d97-4eac-981a-c6fd528c37a5"><img class="hs-cta-img" id="hs-cta-img-fc3ca191-7d97-4eac-981a-c6fd528c37a5" style="border-width:0px;" height="194" width="996" src="https://no-cache.hubspot.com/cta/default/4522349/fc3ca191-7d97-4eac-981a-c6fd528c37a5.png" alt="Guía Buenas Prácticas Gestión de Proyectos"></a></span><script charset="utf-8" src="/hs/cta/cta/current.js"></script><script type="text/javascript"> hbspt.cta._relativeUrls=true;hbspt.cta.load(4522349, 'fc3ca191-7d97-4eac-981a-c6fd528c37a5', {"region":"na1"}); </script></span><!-- end HubSpot Call-to-Action Code --></p>
+<h2 style="text-align: justify;"><span style="font-size: 30px; color: #69a3b9;"><strong>4 métodos que abren camino al enfoque &nbsp;ágil</strong></span></h2>
+<p style="text-align: justify;">En este sentido, te mostramos las cuatro <a href="https://blog.structuralia.com/las-metodologias-agiles-y-sus-ventajas-en-la-gestion-de-proyectos" rel="noopener" style="font-weight: bold;">metodologías ágiles</a> que más se utilizan en la actualidad:</p>
+<h3 style="text-align: justify;"><span style="font-size: 20px; color: #000000;"><strong>1. Scrum</strong></span></h3>
+<p style="text-align: justify;">Se trata de un método indicado para solventar problemas complejos y se basa en procesos empíricos de control. Esto significa que las decisiones se toman en función de la información existente y de la propia experiencia. Eso sí, cuenta con dos tipos de enfoque:</p>
+<ul style="text-align: justify;">
+<li>
+<p><strong>Iterativo: </strong>en cada sprint se genera una nueva versión del producto que mejora la versión del sprint anterior. Se trata de ir refinando y mejorando las propiedades del producto conforme avanza el proyecto.</p>
+</li>
+<li>
+<p><strong>Incremental: </strong>en cada periodo de tiempo corto se van añadiendo nuevas características al producto.</p>
+</li>
+</ul>
+<p style="text-align: justify;">En cuanto a los distintos elementos que conforman la metodología distinguimos los tiempos asignados, la definición de hecho, el ciclo de Scrum, los productos y los distintos tipos de reuniones. Todo ello en base a sus pilares básicos y valores fundamentales.</p>
+<p style="text-align: justify;">Por otra parte, en un proyecto ágil bajo metodología Scrum se distinguen tres roles: <strong>Product Owner, Scrum Master y el equipo de desarrollo.</strong></p>
+<h3 style="text-align: justify;"><span style="font-size: 20px; color: #000000;"><strong>2. XP</strong></span></h3>
+<p style="text-align: justify;">Es una metodología ágil <strong>exclusiva para el desarrollo de software</strong>. Sus siglas provienen de Extreme Programming y, al igual que Scrum, contempla cambios frecuentes e iteraciones relativas a cortos periodos de tiempo.</p>
+<p style="text-align: justify;">En este caso se distinguen cuatro roles: <strong>líder ágil o coach, cliente, programador y tester</strong>. Con respecto a sus valores, XP recoge la simplicidad, la comunicación, el feedback, la motivación y el respeto como sus principales premisas.</p>
+<p style="text-align: justify;">En este contexto contempla 13 prácticas de ingeniería diferentes:</p>
+<ul style="text-align: justify;">
+<li>
+<p>Equipo compacto</p>
+</li>
+<li>
+<p>Juegos de planificación</p>
+</li>
+<li>
+<p>Pruebas de usuario</p>
+</li>
+<li>
+<p>Entregas pequeñas</p>
+</li>
+<li>
+<p>Diseño simple</p>
+</li>
+<li>
+<p>Programación por parejas</p>
+</li>
+<li>
+<p>Refactorización</p>
+</li>
+<li>
+<p>Desarrollo dirigido por las pruebas</p>
+</li>
+<li>
+<p>Integración continua</p>
+</li>
+<li>
+<p>Propiedad colectiva del código</p>
+</li>
+<li>
+<p>Estándares de codificación</p>
+</li>
+<li>
+<p>Metáfora del sistema</p>
+</li>
+<li>
+<p>Ritmo sostenible</p>
+</li>
+</ul>
+<h3 style="text-align: justify;"><span style="font-size: 20px; color: #000000;"><strong>3. Kanban</strong></span></h3>
+<p style="text-align: justify;">Esta metodología consiste en la organización del trabajo diario <strong>en base a un panel de tareas</strong>. No propone cambios en las prácticas de ingeniería ni una nueva definición de proceso o estilo de trabajo. En cambio, se diseña para <strong>evitar la sobreproducción</strong> y para asegurarse de que los componentes pasan de un subproceso al siguiente en el <strong>orden adecuado.</strong></p>
+<p style="text-align: justify;">Así se desarrolla un sistema de relleno que controla las cantidades producidas para reponer los componentes solo cuando sea necesario. Eso sí, en lugar de utilizar Kanban específicos, también se pueden poner en marcha otros sistemas reutilizables, como contenedores, palets o bandas codificadas.</p>
+<p style="text-align: justify;">No obstante, una alternativa es la producción anticipada basándose en predicciones.</p>
+<h3 style="text-align: justify;"><span style="font-size: 20px; color: #000000;"><strong>4. Lean</strong></span></h3>
+<p style="text-align: justify;">Es considerada tanto una metodología de trabajo como una filosofía centrada en <strong>maximizar el valor del cliente y minimizar el desperdicio. </strong>Esto traducido a los procesos de fabricación “pull” radica en producir solo lo necesario y en el momento adecuado.</p>
+<p style="text-align: justify;">En este contexto, podemos decir que el <strong>Lean Start Up</strong> consiste en extender la metodología al <strong>lanzamiento de nuevas empresas al mercado. </strong>Los principios son los mismos que los de la filosofía Lean. Sin embargo, resalta todas las actividades que aportan valor al negocio al mismo tiempo que elimina las que no lo hagan.</p>
+<p style="text-align: justify;">La idea es ir validando cada aprendizaje de forma continua, experimentando con nuevas ideas en el negocio real &nbsp;e iterando sobre este estilo de funcionamiento.</p>
+<p style="text-align: justify;">Cabe destacar que en el caso de las metodologías ágiles no siempre hay que decantarse por una u otra, sino que <strong>se pueden combinar entre sí.</strong> Piensa que el objetivo final pasa por maximizar el valor del resultado del proyecto, evitar las tareas que no aporten valor, generar el menor desperdicio posible y mejorar de forma continua. ¿Y tú? ¿Estás preparado para especializarte en las metodologías que están revolucionando la transformación digital de las empresas?</p>
+<p style="text-align: justify;"><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-700d92c8-7311-4221-967d-58764177a744"><span class="hs-cta-node hs-cta-700d92c8-7311-4221-967d-58764177a744" id="hs-cta-700d92c8-7311-4221-967d-58764177a744"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/4522349/700d92c8-7311-4221-967d-58764177a744"><img class="hs-cta-img" id="hs-cta-img-700d92c8-7311-4221-967d-58764177a744" style="border-width:0px;" height="515" width="1200" src="https://no-cache.hubspot.com/cta/default/4522349/700d92c8-7311-4221-967d-58764177a744.png" alt="Guía Buenas Prácticas Gestión de Proyectos"></a></span><script charset="utf-8" src="/hs/cta/cta/current.js"></script><script type="text/javascript"> hbspt.cta._relativeUrls=true;hbspt.cta.load(4522349, '700d92c8-7311-4221-967d-58764177a744', {"region":"na1"}); </script></span><!-- end HubSpot Call-to-Action Code --></p></span>
+</div>
+<div class="custom-post-sidebar">
+<p class="post-date">
+<i class="uk-icon-calendar-o uk-post-meta-icon"></i> 
+January
+25,
+2019
+</p>
+<!-- category -->
+<p id="hubspot-topic_data" class="custom-blog-post-topic">
+<i class="uk-icon-folder-open-o uk-post-meta-icon"></i> 
+<a class="topic-link" href="https://blog.incubicon.com/tag/transformación-digital-e-industria-4-0-">Transformación Digital e Industria 4.0.</a>
+</p>
+<hr>
+<!-- author profile -->
+<div class="custom-post-author">
+<h4><a href="https://blog.incubicon.com/author/incubicon">Incubicon</a></h4>
+</div>
+<hr>
+<hr>
+<a class="cm-text-muted cm-blog-share" target="popup" onclick="window.open('https://twitter.com/intent/tweet?text=Tipos de metodologías ágiles para la gestión de proyectos+https://blog.incubicon.com/tipos-de-metodologías-agiles-para-la-gestion-de-proyectos','Twitter Share','width=600,height=600')"><i class="uk-icon-twitter"></i></a>
+<a class="cm-text-muted cm-blog-share" target="popup" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=https://blog.incubicon.com/tipos-de-metodologías-agiles-para-la-gestion-de-proyectos','Facebook Share','width=600,height=600')"><i class="uk-icon-facebook-official"></i></a>
+<a class="cm-text-muted cm-blog-share" target="popup" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&amp;url=https://blog.incubicon.com/tipos-de-metodologías-agiles-para-la-gestion-de-proyectos','LinkedIn Share','width=600,height=600')"><i class="uk-icon-linkedin"></i></a>
+<a class="cm-text-muted cm-blog-share" target="popup" onclick="window.open('https://www.pinterest.com/pin/create/button/?url=https://blog.incubicon.com/tipos-de-metodologías-agiles-para-la-gestion-de-proyectos','Pinterest','width=600,height=600')"><i class="uk-icon-pinterest"></i></a>
+<a class="cm-text-muted cm-blog-share" target="popup" onclick="window.open('whatsapp://send?text=Tipos de metodologías ágiles para la gestión de proyectos - https://blog.incubicon.com/tipos-de-metodologías-agiles-para-la-gestion-de-proyectos','whatsapp','width=600,height=600')" data-action="share/whatsapp/share"><i class="uk-icon-whatsapp"></i></a>
+<a class="cm-text-muted cm-blog-share" data-jkit-share="" href="https://plus.google.com/share?url=https://blog.incubicon.com/tipos-de-metodologías-agiles-para-la-gestion-de-proyectos" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="uk-icon-google-plus"></i></a>
+</div>
+</div>
+</div>
+</div>
+<!-- Optional: Blog Author Bio Box -->
+</div>
+</div>
+</div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span3 widget-span widget-type-cell blog-sidebar" style="" data-widget-type="cell" data-x="9" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1523032024362314" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-post_filter" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+  
+
+
+<span id="hs_cos_wrapper_module_1523032024362314_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_post_filter" style="" data-hs-cos-general-type="widget" data-hs-cos-type="post_filter"><div class="block">
+  <h3>Categorías</h3>
+  <div class="widget-module">
+    <ul>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/arquitectura-y-edificación">Arquitectura y Edificación <span class="filter-link-count" dir="ltr">(1)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/big-data">Big Data <span class="filter-link-count" dir="ltr">(3)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/ciudades-inteligentes">ciudades inteligentes <span class="filter-link-count" dir="ltr">(3)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/criptomonedas">Criptomonedas <span class="filter-link-count" dir="ltr">(1)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/formación">formación <span class="filter-link-count" dir="ltr">(5)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/herramientas-agiles">Herramientas agiles <span class="filter-link-count" dir="ltr">(2)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/iese-cities-in-motion">IESE Cities in Motion <span class="filter-link-count" dir="ltr">(1)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/ingenieria">ingenieria <span class="filter-link-count" dir="ltr">(1)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/ingeniería">ingeniería <span class="filter-link-count" dir="ltr">(8)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/noticias">Noticias <span class="filter-link-count" dir="ltr">(3)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/nuevas-tecnologias">Nuevas tecnologias <span class="filter-link-count" dir="ltr">(5)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/smart-cities">smart cities <span class="filter-link-count" dir="ltr">(3)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/sostenibilidad-y-eficiencia-energética">Sostenibilidad y Eficiencia Energética <span class="filter-link-count" dir="ltr">(10)</span></a>
+        </li>
+      
+        <li>
+          <a href="https://blog.incubicon.com/tag/transformación-digital-e-industria-4-0-">Transformación Digital e Industria 4.0. <span class="filter-link-count" dir="ltr">(28)</span></a>
+        </li>
+      
+    </ul>
+    
+  </div>
+</div>
+</span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end body -->
+</div><!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<div class="" data-global-widget-path="generated_global_groups/5989033777.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-footer-group" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-footer-top" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="padding-bottom: 1.25rem; font-size: 12px;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_15402898580761398" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_15402898580761398_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #9b9b9b;">Incubicon es una iniciativa de</span></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1532599160621522" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_module_1532599160621522_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="https://www.structuralia.com/" target="_blank" id="hs-link-module_1532599160621522_" rel="noopener" style="border-width:0px;border:0px;"><img src="https://blog.incubicon.com/hubfs/Structuralia-Principal-1-tinta-BLANCO.svg" class="hs-image-widget " style="width:199px;border-width:0px;border:0px;" width="199" alt="Structuralia-Principal-1-tinta-BLANCO" title="Structuralia-Principal-1-tinta-BLANCO"></a></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-cell bloque_acceso_footer" style="" data-widget-type="cell" data-x="6" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="text-align: right;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_15402900408981451" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_15402900408981451_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div class="footer__credits-box footer__credits-box--campus"><a href="https://cv.incubicon.com/" target="_blank" rel="noopener" class="footer__link-campus footer__link--campus">Acceso al Campus Virtual</a> <a href="https://blog.incubicon.com" target="_blank" rel="noopener" class="footer__link-campus footer__link--blog">Blog Incubicon</a><a href="https://blog.structuralia.com/" target="_blank" rel="noopener" class="footer__link-campus footer__link--blog">Blog Structuralia</a></div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget custom-copyright" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_153131658628320" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_153131658628320_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #9b9b9b;">© 2018 Structuralia S.A. ·</span>
+<ul class="footer__list">
+<li class="page_item page-item-4"><a href="https://incubicon.com/quienes-somos/">¿Quiénes somos?</a></li>
+<li class="page_item page-item-13"><a href="https://incubicon.com/privacidad/">Privacidad</a></li>
+<li class="page_item page-item-13"><a href="https://incubicon.com/terminos-de-uso/">Términos de uso</a></li>
+<li class="page_item page-item-13"><a href="https://incubicon.com/aviso-legal/">Aviso legal</a></li>
+</ul></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget back-to-top" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_153131683397825" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_153131683397825_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="#"><i></i><span>Back To Top</span></a></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
+    
+<script>
+(function () {
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/_hcms/perf', true /*async*/);
+            xhr.setRequestHeader("Content-type", "application/json");
+            xhr.onreadystatechange = function () {
+                // do nothing.
+            };
+            var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+            function populateNetworkInfo(name, connection, info) {
+                if (name in connection) {
+                    info[name] = connection[name];
+                }
+            }
+            var networkInfo = {};
+            if (connection) {
+                ['type', 'effectiveType', 'downlink', 'rtt'].forEach(function(name) {
+                    populateNetworkInfo(name, connection, networkInfo);
+                });
+            }
+            var perfData = {
+                url: location.href,
+                portal: 4522349,
+                content: 7216182383,
+                group: -1,
+                connection: networkInfo,
+                timing: performance.timing
+            };
+            xhr.send(JSON.stringify(perfData));
+        }, 3000);  // Execute this 3 seconds after onload.
+    });
+})();
+</script>
+
+<script src="https://blog.incubicon.com/hs-fs/hub/4522349/hub_generated/template_assets/5989033766/1584544536999/Incubicon_July2018_Theme/Coded_Files/Incubicon_July2018-main.min.js"></script>
+<script>
+if (typeof hsVars !== 'undefined') { hsVars['language'] = 'es-es'; }
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.37/bundles/project.js"></script>
+<script src="/hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.17/bundles/project.js"></script>
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "blog-post"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/blog.incubicon.com\/tipos-de-metodolog\u00EDas-agiles-para-la-gestion-de-proyectos"]);
+_hsq.push(["setPageId", "7216182383"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 7216182383,
+    "legacyPageId": "7216182383",
+    "contentFolderId": null,
+    "contentGroupId": 6418476011,
+    "abTestId": null,
+    "languageVariantId": 7216182383,
+    "languageCode": "es-es",
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/4522349.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    ticks: 1630777604557,
+    page_id: 7216182383,
+
+    content_group_id: 6418476011,
+    portal_id: 4522349,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "blog-post",
+    analytics_page_id: "7216182383",
+    category_id: 3,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.109/js/index.js"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MK82DCG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="fb-root"></div>
+ <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1&status=0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+ <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+ 
+
+
+    
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+
+</body></html>
