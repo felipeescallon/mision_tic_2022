@@ -14,5 +14,5 @@ Repositorio que contiene información sobre mi labor como Formador del Programa 
  - **Semana 2,4,6: https://github.com/felipeescallon/app-pedidos-backend-formador
  - **Semana 3:     https://github.com/felipeescallon/Python-Flask-SMS-Email
  - **Semana 5:     https://github.com/felipeescallon/intro-frontend
-  -**Semana 5:     https://github.com/felipeescallon/intro-bootstrap
-  -**Semana 6,7:   https://github.com/felipeescallon/app-pedidos-frontend-formador
+ - **Semana 5:     https://github.com/felipeescallon/intro-bootstrap
+ - **Semana 6,7:   https://github.com/felipeescallon/app-pedidos-frontend-formador
