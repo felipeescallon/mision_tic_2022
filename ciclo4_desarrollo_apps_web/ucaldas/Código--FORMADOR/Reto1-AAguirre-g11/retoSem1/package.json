@@ -1,0 +1,15 @@
+{
+  "name": "crud-nodejs",
+  "version": "1.0.0",
+  "description": "Reto NodeJS Semana1 Inscripcion en una oferta laboral",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel Aguirre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
