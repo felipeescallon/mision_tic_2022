@@ -16,3 +16,6 @@ Repositorio que contiene información sobre mi labor como Formador del Programa 
  - Semana 5:      https://github.com/felipeescallon/intro-frontend
  - Semana 5:      https://github.com/felipeescallon/intro-bootstrap
  - Semana 6,7:    https://github.com/felipeescallon/app-pedidos-frontend-formador
+
+
+Participé como Juez evaluador de equipos de una hackathon nacional de programación web organizada por el Fondo Único de Tecnologías de la Información y las Comunicaciones del Ministerio TIC (Colombia), y la Universidad de Caldas, evento virtual llevado a cabo del 26 al 30 de noviembre de 2021.
